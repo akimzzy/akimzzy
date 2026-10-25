@@ -1,16 +1,17 @@
-## Hi there 👋
+# Akeem Adeyemi
 
-<!--
-**akimzzy/akimzzy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software engineer building reliable web, backend, and mobile products.
 
-Here are some ideas to get you started:
+I work mainly with TypeScript, React, Next.js, and Node.js, and I care about clear product experiences, dependable systems, and practical performance.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Selected work
+
+- [Portfolio and case studies](https://ake-em.com)
+- [Engineering writing](https://ake-em.com/writing)
+- [Invoice App](https://github.com/akimzzy/invoice) — Vue invoicing app with exports and cloud sync
+
+## Currently
+
+Building and improving products across commerce, delivery, and business operations.
+
+[Visit my portfolio →](https://ake-em.com)
